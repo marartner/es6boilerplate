@@ -14,7 +14,7 @@
     "factor-bundle": "^2.5.0",
     "grunt": "^1.0.1",
     "grunt-autoprefixer": "^3.0.4",
-    "grunt-browserify": "^5.0.0",
+    "grunt-browserify": "^5.3.0",
     "grunt-contrib-uglify": "^2.0.0",
     "grunt-sass": "^1.2.1",
     "load-grunt-config": "^0.19.2",
